@@ -30,6 +30,7 @@ function Skills() {
                 <h1 className="service__text">HTML - 5</h1>
                 <p className="p service__text p__color">
                   The Proficient Knwoledge in the HTML with Web Development.
+                  <br />
                 </p>
               </div>
             </div>
@@ -68,7 +69,8 @@ function Skills() {
               <div className="service__meta">
                 <h1 className="service__text">BOOTSTRAP</h1>
                 <p className="p service__text p__color">
-                  Some of CheatSheets Are known to Devops.
+                  Some of CheatSheets Are known to Developments.
+                  <br />
                 </p>
               </div>
             </div>
@@ -81,6 +83,8 @@ function Skills() {
               <div className="service__meta">
                 <h1 className="service__text">REACT JS</h1>
                 <p className="p service__text p__color">
+                  The Combination of HTML , CSS And JAVASCRIPT.
+                  <br />
                 </p>
               </div>
             </div>
@@ -101,6 +105,7 @@ function Skills() {
               <div className="service__meta">
                 <h1 className="service__text">CORE JAVA</h1>
                 <p className="p service__text p__color">
+                  Java For a Software Developments and the BackEnd Functionalities.
                 </p>
               </div>
             </div>
@@ -113,6 +118,8 @@ function Skills() {
               <div className="service__meta">
                 <h1 className="service__text">NODE JS</h1>
                 <p className="p service__text p__color">
+                  Node js is frame works to the Backend sides.
+                  <br />
                 </p>
               </div>
             </div>
@@ -125,6 +132,8 @@ function Skills() {
               <div className="service__meta">
                 <h1 className="service__text">MONGODB</h1>
                 <p className="p service__text p__color">
+                  MDB is used to the server side of the clients.
+                  <br />
                 </p>
               </div>
             </div>
