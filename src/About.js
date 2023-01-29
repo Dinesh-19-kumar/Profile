@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 import aboutImg from './assets/img/about.png';
-import resume from './assets/props/DineshKumar_Resume.pdf';
+import resume from './assets/props/Dinesh.pdf';
 
 function About() {
   //UP TO TOP BTN

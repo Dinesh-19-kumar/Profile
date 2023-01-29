@@ -29,6 +29,7 @@ function Skills() {
               <div className="service__meta">
                 <h1 className="service__text">HTML - 5</h1>
                 <p className="p service__text p__color">
+                  The Proficient Knwoledge in the HTML with Web Development.
                 </p>
               </div>
             </div>
@@ -41,6 +42,7 @@ function Skills() {
               <div className="service__meta">
                 <h1 className="service__text">CSS - 3 </h1>
                 <p className="p service__text p__color">
+                The Proficient Knwoledge in the CSS with TailWinds and Bootstrap.
                 </p>
               </div>
             </div>
@@ -53,6 +55,7 @@ function Skills() {
               <div className="service__meta">
                 <h1 className="service__text">JAVASCRIPT</h1>
                 <p className="p service__text p__color">
+                The Proficient Knwoledge in the JAVASCRIPT to creat Web Developments.
                 </p>
               </div>
             </div>
@@ -65,6 +68,7 @@ function Skills() {
               <div className="service__meta">
                 <h1 className="service__text">BOOTSTRAP</h1>
                 <p className="p service__text p__color">
+                  Some of CheatSheets Are known to Devops.
                 </p>
               </div>
             </div>
