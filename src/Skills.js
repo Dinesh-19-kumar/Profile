@@ -71,6 +71,7 @@ function Skills() {
                 <p className="p service__text p__color">
                   Some of CheatSheets Are known to Developments.
                   <br />
+                  etc..
                 </p>
               </div>
             </div>
@@ -85,6 +86,7 @@ function Skills() {
                 <p className="p service__text p__color">
                   The Combination of HTML , CSS And JAVASCRIPT.
                   <br />
+                  etc..
                 </p>
               </div>
             </div>
@@ -120,6 +122,7 @@ function Skills() {
                 <p className="p service__text p__color">
                   Node js is frame works to the Backend sides.
                   <br />
+                  etc..
                 </p>
               </div>
             </div>
@@ -134,6 +137,7 @@ function Skills() {
                 <p className="p service__text p__color">
                   MDB is used to the server side of the clients.
                   <br />
+                  etc.
                 </p>
               </div>
             </div>
